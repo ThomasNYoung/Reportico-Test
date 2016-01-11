@@ -1,0 +1,1 @@
+/vagrant/sites/reportico-test.dev/app/views/users/show.blade.php
